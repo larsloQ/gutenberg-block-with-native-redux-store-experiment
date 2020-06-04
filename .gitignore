@@ -1,0 +1,7 @@
+composer.lock
+/node_modules/
+/vendor/
+/logs/
+.DS_Store
+*.zip
+languages/
